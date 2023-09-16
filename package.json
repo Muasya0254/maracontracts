@@ -1,0 +1,21 @@
+{
+  "name": "maracontracts",
+  "version": "1.0.0",
+  "description": "deploying test smart contract on mara-testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mara-testnet"
+  ],
+  "author": "Muasya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.3"
+  }
+}
